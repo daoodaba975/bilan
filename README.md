@@ -1,4 +1,4 @@
-# Le Bilan
+# Bilan
 
 This program allows you to calculate points when you play Scrabble
 
