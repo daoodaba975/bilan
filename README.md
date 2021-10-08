@@ -13,7 +13,7 @@ This program allows you to calculate points when you play Scrabble
             <sub><b>Daouda BA</b></sub>
         </a>
             <br/>
-        <a href="https://daoodaba975.netlify.com" title="Website">🌐</a>
+        <a href="https://daooda.dev" title="Website">🌐</a>
         <a href="https://twitter.com/daoodaba975" title="Twitter">🐤</a>
         <a href="mailto:daoodaba975@outlook.com" title="Mail">📩</a>
     </td>
