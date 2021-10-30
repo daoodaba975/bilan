@@ -1,0 +1,26 @@
+﻿PRESENTATION
+->
+Bonjour.
+Je m'appelle Daouda BA et j'ai écrit ce programme car j'adore jouer au Scrabble et pour me faciliter les choses quand je joue,
+je me suis dit, pourquoi pas crée un programme qui fait le bilan à ma place ?
+
+COMMENT JOUER
+->
+Ce programme permet de faire le calcul des points quand vous jouez au Scrabble ( Le Bilan ).
+Avant de commencer, vous devez dabord donner le nombre de joueur(s)
+et le Scrabble se joue entre 2 joueurs, 3 joueurs ou 4 joueurs.
+Ensuite après avoir saisit les noms des joueurs, on peut commencer le bilan.
+A la fin, il vous suffit de saisir le chiffre 199 pour finir le bilan et voir les résultats du jeu.
+
+FICHE DU PROGRAMME
+->
+Nom du programme  :  Le Bilan
+Date de création  :  le 20 décembre 2017
+Version du programme  :  0.0.1
+Langage de programmation  :  Batch
+
+CONTACT
+->
+Téléphone  :  +221 77 396 90 61
+Adresse  :  Guédiawaye - DAKAR - Sénégal
+E-mail  :  davinhoba9@outlook.fr

@@ -1,0 +1,26 @@
+PRESENTATION
+->
+Hello.
+My name is Daouda BA and I wrote this program because I love to play Scrabble and to make it easier for me when I play,
+I thought to myself, why not create a program that takes stock for me?
+
+HOW TO PLAY
+->
+This program allows you to calculate points when you play Scrabble (The Balance Sheet).
+Before starting, you must first give the number of player (s)
+and Scrabble is played between 2 players, 3 players or 4 players.
+Then after entering the names of the players, we can start the assessment.
+At the end, you just have to enter the number 199 to finish the balance sheet and see the results of the game.
+
+PROGRAM SHEET
+->
+Program name: Le Bilan
+Date created: December 20, 2017
+Program version: 0.0.1
+Programming language: Batch
+
+CONTACT
+->
+Telephone: +221 77 396 90 61
+Address: Guédiawaye - DAKAR - Senegal
+E-mail: davinhoba9@outlook.fr
